@@ -9,4 +9,4 @@
 ### 프로젝트
 |NLP 관련 프로젝트|논문 리뷰|기타 프로젝트|
 |:-----:|:-----:|:-----:|
-|[텍스트 요약을 통한 대화 요약 프로젝트](https://github.com/youngwoo3283/SpeedWagon)|[pegasus: pre-training with extracted gap-sentences for abstractive summarization]|[pegasus: pre-training with extracted gap-sentences for abstractive summarization](https://github.com/youngwoo3283/pegasus_review)||
+|[텍스트 요약을 통한 대화 요약 프로젝트](https://github.com/youngwoo3283/SpeedWagon)|[pegasus: pre-training with extracted gap-sentences for abstractive summarization 논문 리뷰](https://github.com/youngwoo3283/pegasus_review)|[fashion_capmus 데이터를 이용한 추천프로젝트](https://github.com/youngwoo3283/CP2_Recommendation-Modeling)|
