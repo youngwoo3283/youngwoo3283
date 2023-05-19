@@ -10,5 +10,4 @@
 |NLP 관련 프로젝트|논문 리뷰|기타 프로젝트|
 |:-----:|:-----:|:-----:|
 |[텍스트 요약을 통한 대화 요약 프로젝트](https://github.com/youngwoo3283/SpeedWagon)|[pegasus: pre-training with extracted gap-sentences for abstractive summarization 논문 리뷰](https://github.com/youngwoo3283/pegasus_review)|[fashion_capmus 데이터를 이용한 추천프로젝트](https://github.com/youngwoo3283/CP2_Recommendation-Modeling)|
-|[리뷰생성기 프로젝트 by 네이버쇼핑리뷰데이터](https://github.com/youngwoo3283/AI_Project4)|[Efficient Estimation of Word Representations in
-Vector Space 논문 리뷰](https://github.com/youngwoo3283/word2vec_review)|[요기요 데이터를 이용한 추천 프로젝트](https://github.com/youngwoo3283/boaz_project1_mini)|
+|[리뷰생성기 프로젝트 by 네이버쇼핑리뷰데이터](https://github.com/youngwoo3283/AI_Project4)|[Efficient Estimation of Word Representations in Vector Space 논문 리뷰](https://github.com/youngwoo3283/word2vec_review)|[요기요 데이터를 이용한 추천 프로젝트](https://github.com/youngwoo3283/boaz_project1_mini)|
