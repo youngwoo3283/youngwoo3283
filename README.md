@@ -7,5 +7,6 @@
 
 
 ### 프로젝트
-|: NLP 관련 프로젝트 :|: 논문 리뷰 :|: 기타 프로젝트 :|
+|NLP 관련 프로젝트|논문 리뷰|기타 프로젝트|
+|:-----:|:-----:|:-----:|
 |[텍스트 요약을 통한 대화 요약 프로젝트](https://github.com/youngwoo3283/SpeedWagon)|[pegasus: pre-training with extracted gap-sentences for abstractive summarization]|[pegasus: pre-training with extracted gap-sentences for abstractive summarization](https://github.com/youngwoo3283/pegasus_review)||
