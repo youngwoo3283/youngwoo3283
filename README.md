@@ -4,6 +4,14 @@
 블로그 <br>
 <a href="https://data-beginning.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/></a>
 
+### 기술 스택
+Languages : Python, R, HTML, CSS
+Libraries : Sklearn, Pytorch, tensorflow
+Databases : SQLite,MongoDB, PostgreSQL
+Dev Tools : Visual Studio Code, Git, google colab, Jupyter Notebook, R studio, Postman, DBeaver
+![image](https://github.com/youngwoo3283/youngwoo3283/assets/69841073/7ea5cbef-efff-45ed-8d48-33e19fb07a07)
+
+
 
 
 ### 프로젝트
